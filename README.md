@@ -2,7 +2,7 @@
 
 # Project: Back-End Web Application
 
-This project is a back-end web application developed as a culmination of the knowledge and skills I gained during my training with Bayan Academy. It demonstrates proficiency in building robust, scalable, and efficient server-side applications, with a focus on modern web development practices and technologies.
+This project is a back-end web application developed as a culmination of the knowledge and skills I gained during my training with Bayan Academy. It demonstrates proficiency in building scalable, and efficient server-side applications.
 
 Key Features
 Modular Architecture: Clean, maintainable, and well-structured code.
@@ -20,3 +20,14 @@ This project serves as both a practical demonstration of the skills I acquired a
 
 # Acknowledgments
 I would like to thank Bayan Academy for providing the training and guidance that made this project possible.
+
+
+# Install Dependencies
+npm install
+
+Run the application using this command
+node index.js or nodemon index.js
+
+load some data from seeder.js
+cd seeder
+node seeder.js
