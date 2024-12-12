@@ -22,12 +22,15 @@ This project serves as both a practical demonstration of the skills I acquired a
 I would like to thank Bayan Academy for providing the training and guidance that made this project possible.
 
 
-# Install Dependencies
+## Install Dependencies
 npm install
 
-Run the application using this command
+### Run the application using this command
+
 node index.js or nodemon index.js
 
-load some data from seeder.js
+### load some data from seeder.js
+
 cd seeder
+
 node seeder.js
